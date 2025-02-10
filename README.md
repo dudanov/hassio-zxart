@@ -2,6 +2,8 @@
 
 [Home Assistant](https://www.home-assistant.io/) [HACS](https://hacs.xyz/) custom component for working with [ZXArt.ee](https://zxart.ee) resources.
 
+https://github.com/user-attachments/assets/0e55e25c-eedb-41ab-b1c2-a9af929db275
+
 ![image](images/screen01.png)
 ![image](images/screen02.png)
 
