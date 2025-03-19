@@ -7,7 +7,7 @@
   "integration_type": "service",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/dudanov/hassio-zxart/issues",
-  "requirements": ["zxart==0.3.4"],
+  "requirements": ["zxart==0.3.5"],
   "single_config_entry": true,
-  "version": "0.3.4"
+  "version": "0.3.5"
 }
